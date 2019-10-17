@@ -1,5 +1,10 @@
 # Competitive-Programming
-A list of Algorithm and Data structure implementations in C++
+A list of `Algorithm` and `Data structure` implementations in `C++`.
+
+## Contributing
+Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+
+You can also contribute by sharing as much as you can :)
 
 ## Programming Syllabus (For topics)
 
