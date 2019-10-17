@@ -11,6 +11,8 @@ You can also contribute by sharing as much as you can :)
 * [Programming Camp Syllabus](Syllabi/IOI%20Syllabus%202019.pdf)
 * [IOI Syllabus 2019](Syllabi/Programming%20Camp%20Syllabus.pdf)
 
+[Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming), as the name states, is an awesome list of resources which may help you grow as a Competitive Programmer. Do check that out.
+
 ## Algorithms
 
 ### Searching
