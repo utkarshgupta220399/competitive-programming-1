@@ -9,7 +9,7 @@ int binarySearch(int a[], int l, int r, int key) {
         else
             r = mid-1;
     }
-    return -1;
+    return -1; //if element is not present in array
 }
 
 /*
