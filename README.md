@@ -20,3 +20,9 @@ You can also contribute by sharing as much as you can :)
 1. [Linear Search](Algorithms/Searching/linear-search.cpp)
 2. [Binary Search](Algorithms/Searching/binary-search.cpp)
 3. [Ternary Search](Algorithms/Searching/ternary-search.cpp)
+
+### Sorting
+
+1. [Bubble Sort](Algorithms/Sorting/bubble-sort.cpp)
+	* [Optimized](Algorithms/Sorting/bubble-sort-optimized.cpp)
+2. [Insertion Sort](Algorithms/Sorting/insertion-sort.cpp)
