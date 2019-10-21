@@ -13,5 +13,5 @@ int binarySearch(int a[], int l, int r, int key) {
 }
 
 /*
-    Note: Binary search works only in sorted lists.
+    Note: Binary search works only in sorted list
 */

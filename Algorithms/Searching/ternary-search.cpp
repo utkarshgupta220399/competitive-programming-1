@@ -19,5 +19,5 @@ int ternarySearch(int a[], int l, int r, int key) {
 }
 
 /*
-	Note: Ternary search works only in sorted lists.
+	Note: Ternary search works only in sorted list
 */

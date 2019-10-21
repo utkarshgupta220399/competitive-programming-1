@@ -41,3 +41,7 @@ void mergeSort(int a[], int l, int r) {
 		merge(a, l, mid, r);	// Merge the 2 parts into one
 	}
 }
+
+/*
+	Call mergeSort() to sort the list
+*/

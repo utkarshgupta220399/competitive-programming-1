@@ -8,7 +8,7 @@ void bubbleSort(int a[], int n) {
 				swapped = true;
 			}
 		}
-		if(!swapped)	// No swap in iteration => Array is already sorted
+		if(!swapped)	// No swap in iteration => List is already sorted
 			break;
 	}
 }
