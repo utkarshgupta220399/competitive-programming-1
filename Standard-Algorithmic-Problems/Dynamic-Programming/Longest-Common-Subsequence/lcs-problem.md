@@ -16,3 +16,7 @@ The naive solution for this problem is to generate all subsequences of both give
 4. Thus, the naïve algorithm would take O(n.2<sup>m</sup>) time.
 
 [LCS Visualization](https://www.cs.usfca.edu/~galles/visualization/DPLCS.html)
+
+Running time of the algorithm can be improved to a complexity of O(m.n) using dynamic programming.
+
+See solution [here](lcs-table-solution.cpp).
