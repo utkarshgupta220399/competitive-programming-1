@@ -1,5 +1,5 @@
 # Competitive-Programming
-A list of `Algorithm` and `Data structure` implementations in `C++`.
+A list of `Algorithm` and `Data structure` implementations in `C++` along with standard problems, solved using different algorithmic techniques.
 
 ## Contributing
 Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
@@ -29,3 +29,15 @@ You can also contribute by sharing as much as you can :)
 3. [Selection Sort](Algorithms/Sorting/selection-sort.cpp)
 4. [Merge Sort](Algorithms/Sorting/merge-sort.cpp)
 5. [Quick Sort](Algorithms/Sorting/quick-sort.cpp)
+
+## Standard Problems
+
+This section covers solutions to standard problems solved using different algorithmic techniques in Computer Science.
+
+Look how awesome they are!
+
+### Dynamic Programming
+
+1. Longest Common Subsequence: 
+	* [Problem](Standard-Algorithmic-Problems/Dynamic-Programming/Longest-Common-Subsequence/lcs-problem.md)
+	* [Solution using table](Standard-Algorithmic-Problems/Dynamic-Programming/Longest-Common-Subsequence/lcs-table-solution.cpp)
