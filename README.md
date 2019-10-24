@@ -8,8 +8,8 @@ You can also contribute by sharing as much as you can :)
 
 ## Programming Syllabus (For topics)
 
-* [Programming Camp Syllabus](Syllabi/IOI%20Syllabus%202019.pdf)
-* [IOI Syllabus 2019](Syllabi/Programming%20Camp%20Syllabus.pdf)
+* [Programming Camp Syllabus](syllabi/ioi-syllabus-2019.pdf)
+* [IOI Syllabus 2019](syllabi/programming-camp-syllabus.pdf)
 
 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming), as the name states, is an awesome list of resources which may help you grow as a Competitive Programmer. Do check that out.
 
@@ -17,24 +17,24 @@ You can also contribute by sharing as much as you can :)
 
 ### Searching
 
-1. [Linear Search](Algorithms/Searching/linear-search.cpp)
-2. [Binary Search](Algorithms/Searching/binary-search.cpp)
-3. [Ternary Search](Algorithms/Searching/ternary-search.cpp)
+1. [Linear Search](algorithms/searching/linear-search.cpp)
+2. [Binary Search](algorithms/searching/binary-search.cpp)
+3. [Ternary Search](algorithms/searching/ternary-search.cpp)
 
 ### Sorting
 
-1. [Bubble Sort](Algorithms/Sorting/bubble-sort.cpp)
-	* [Optimized](Algorithms/Sorting/bubble-sort-optimized.cpp)
-2. [Insertion Sort](Algorithms/Sorting/insertion-sort.cpp)
-3. [Selection Sort](Algorithms/Sorting/selection-sort.cpp)
-4. [Merge Sort](Algorithms/Sorting/merge-sort.cpp)
-5. [Quick Sort](Algorithms/Sorting/quick-sort.cpp)
+1. [Bubble Sort](algorithms/sorting/bubble-sort.cpp)
+	* [Optimized](algorithms/sorting/bubble-sort-optimized.cpp)
+2. [Insertion Sort](algorithms/sorting/insertion-sort.cpp)
+3. [Selection Sort](algorithms/sorting/selection-sort.cpp)
+4. [Merge Sort](algorithms/sorting/merge-sort.cpp)
+5. [Quick Sort](algorithms/sorting/quick-sort.cpp)
 
 ## Data Structures
 
 ### Stack
 
-1. [Using fixed size array](Data-Structures/Stack/stack-fixed-size-array.cpp)
+1. [Using fixed size array](data-structures/stack/stack-fixed-size-array.cpp)
 
 ## Standard Problems
 
@@ -45,5 +45,5 @@ Look how awesome they are!
 ### Dynamic Programming
 
 1. Longest Common Subsequence: 
-	* [Problem](Standard-Algorithmic-Problems/Dynamic-Programming/Longest-Common-Subsequence/lcs-problem.md)
-	* [Solution using table](Standard-Algorithmic-Problems/Dynamic-Programming/Longest-Common-Subsequence/lcs-table-solution.cpp)
+	* [Problem](standard-algorithmic-problems/dynamic-programming/longest-common-subsequence/lcs-problem.md)
+	* [Solution using table](standard-algorithmic-problems/dynamic-programming/longest-common-subsequence/lcs-table-solution.cpp)
