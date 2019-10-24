@@ -1,4 +1,4 @@
-#define MAX _	// <-- Replace the blank with maximum size of stack needed.
+#define MAX _	// <-- Replace the blank (present after MAX) with maximum size of stack needed.
 
 // stack class
 template <class T>
