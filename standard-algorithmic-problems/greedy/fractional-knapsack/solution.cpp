@@ -11,7 +11,7 @@ bool compare(struct Item a, struct Item b) {
 	return x>y;
 }
 
-// Parameters: (Value-Weight array, Number of items, Total capacity of Knapsack)
+// Parameters: (Value-Weight array, Number of items, Total capacity of knapsack)
 double fractionalKnapsack(Item items[], int n, int capacity) {
 	sort(items, items+n, compare);	// Sort array in order of descreasing ratio of value/weight
 	int filledKnapsack = 0;

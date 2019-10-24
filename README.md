@@ -57,6 +57,9 @@ Look how awesome they are!
 1. Longest Common Subsequence: 
 	* [Problem](standard-algorithmic-problems/dynamic-programming/longest-common-subsequence/lcs-problem.md)
 	* [Solution using table](standard-algorithmic-problems/dynamic-programming/longest-common-subsequence/lcs-table-solution.cpp)
-2. Longest Common String:
+2. Longest Common Substring:
 	* [Problem](standard-algorithmic-problems/dynamic-programming/longest-common-substring/problem.md)
 	* [Solution using table](standard-algorithmic-problems/dynamic-programming/longest-common-substring/lc-string-table-solution.cpp)
+3. 0/1 Knapsack:
+	* [Problem](standard-algorithmic-problems/dynamic-programming/0-1-knapsack/problem.md)
+	* [Solution](standard-algorithmic-problems/dynamic-programming/0-1-knapsack/solution.cpp)
