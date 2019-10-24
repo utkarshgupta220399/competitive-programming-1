@@ -4,7 +4,7 @@ Given a set of non-negative integers and a target value, determine if there is a
 
 This is an NP-complete problem.
 
-### Naive-Solution -
+### Naive solution -
 
 We can use recursion to find subsets of the set but this is too costly (exponential time complexity), since there can be total 2<sup>n</sup> subsets of a given set.
 

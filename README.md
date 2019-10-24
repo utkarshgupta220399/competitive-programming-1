@@ -63,3 +63,6 @@ Look how awesome they are!
 3. 0/1 Knapsack:
 	* [Problem](standard-algorithmic-problems/dynamic-programming/0-1-knapsack/problem.md)
 	* [Solution](standard-algorithmic-problems/dynamic-programming/0-1-knapsack/solution.cpp)
+4. Subset-Sum:
+	* [Problem](standard-algorithmic-problems/dynamic-programming/subset-sum/problem.md)
+	* [Solution](standard-algorithmic-problems/dynamic-programming/subset-sum/solution.md)
