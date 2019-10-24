@@ -30,6 +30,12 @@ You can also contribute by sharing as much as you can :)
 4. [Merge Sort](Algorithms/Sorting/merge-sort.cpp)
 5. [Quick Sort](Algorithms/Sorting/quick-sort.cpp)
 
+## Data Structures
+
+### Stack
+
+1. [Using fixed size array](Data-Structures/Stack/stack-fixed-size-array.cpp)
+
 ## Standard Problems
 
 This section covers solutions to standard problems solved using different algorithmic techniques in Computer Science.
