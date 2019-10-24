@@ -42,6 +42,12 @@ This section covers solutions to standard problems solved using different algori
 
 Look how awesome they are!
 
+### Greedy
+
+1. Fractional Knapsack:
+	* [Problem](standard-algorithmic-problems/greedy/fractional-knapsack/problem.md)
+	* [Solution](standard-algorithmic-problems/greedy/fractional-knapsack/solution.cpp)
+
 ### Dynamic Programming
 
 1. Longest Common Subsequence: 
