@@ -2,7 +2,7 @@
 
 Given two sequences, find the <strong>length of longest subsequence</strong> present in both of them.
 
-A <strong>subsequence</strong> is a sequence that appears in the same relative order, but not necessarily contiguous. For example, “abc”, “abg”, “bdf”, “aeg”, ‘”acefg”, .. etc are subsequences of “abcdefg”.
+A <strong>subsequence</strong> is a sequence that appears in the same relative order, but not necessarily contiguous. For example, “abc”, “abg”, “bdf”, “aeg”, ”acefg”, .. etc are subsequences of “abcdefg”.
 
 <hr>
 
