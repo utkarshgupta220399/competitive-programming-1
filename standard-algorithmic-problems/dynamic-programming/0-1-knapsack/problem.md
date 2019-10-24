@@ -6,7 +6,7 @@ Unlike [Fractional Knapsack Problem](/standard-algorithmic-problems/greedy/fract
 
 <hr>
 
-## Naive solution -
+### Naive solution -
 
 A naive solution would be to find all subsets from the set of items and look for the ones whose sum of values are less than the capacity of the knapsack. Out of these subsets, choose the subset with the maximum value.
 
